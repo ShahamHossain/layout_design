@@ -1,0 +1,43 @@
+.header{
+	height: 100px;
+	background-color: darkorange;
+}
+
+.wrapper{
+	overflow: hidden;
+	/*border: 10px solid aqua;*/
+}
+.blog{
+	float: left;
+	width: 40%;
+	height: 200px;
+	background-color: red;
+}
+.contact{
+	float: right;
+	width: 60%;
+	height: 200px;
+	background-color: cadetblue;
+}
+
+.box{
+	float: left;
+	width: 33.33%;
+	height: 150px;
+
+}
+
+.skyblue{
+	background-color: skyblue;
+}
+.yellow{
+	background-color: yellow;
+}
+.black{
+	background-color: black;
+}
+.footer{
+	height: 100px;
+	background-color: maroon;
+	/*clear: both;*/
+}
